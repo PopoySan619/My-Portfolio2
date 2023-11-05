@@ -113,7 +113,7 @@ const mentor = [
   {
     title: "Dota 2",
     subtitle: "Pvp Online Games",
-    image: "assets/images/experience-page/dota.jpg",
+    image: "assets/images/experience-page/Dota.jpg",
     desp: "Dota 2 is a 2013 multiplayer online battle arena video game by Valve. The game is a sequel to Defense of the Ancients, a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos.",
     href: "https://www.dota2.com/home",
   },
@@ -134,7 +134,7 @@ const mentor = [
   {
     title: "Warzone",
     subtitle: "FPS-Battle Royale",
-    image: "assets/images/experience-page/wz.png",
+    image: "assets/images/experience-page/WZ.png",
     desp: "Call of Duty: Warzone was a free-to-play battle royale video game developed by Raven Software and Infinity Ward, and published by Activision.",
     href: "https://www.callofduty.com/warzone",
   },
@@ -148,7 +148,7 @@ const mentor = [
   {
     title: "Farlight 84",
     subtitle: "Third Person Battle Royale",
-    image: "assets/images/experience-page/far.png",
+    image: "assets/images/experience-page/Far.png",
     desp: "Farlight 84 is a shooter game in a wasteland setting developed using Unreal Engine 4. The game will launch on PC and mobile with HUNT mode, featuring fierce.",
     href: "https://farlight84.farlightgames.com/",
   },
