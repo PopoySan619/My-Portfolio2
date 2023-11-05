@@ -13,7 +13,7 @@ const exp = [
   },
   {
     title: "Tech Support",
-    cardImage: "assets/images/experience-page/Afni.jpg",
+    cardImage: "assets/images/experience-page/Afni.png", 
     place: "Afni",
     time: "(Mar - Aug, 2019)",
     desp: "<li>Worked To Identifying hardware and software solutions.</li><liSpeaking to customers to quickly get to the root of their problem.</li><li>Resolving network issues, Diagnosing and repairing faults, Troubleshooting technical issues.</li> <li>Fields support calls, chat, email, and/or other communication from users with inquiries regarding software programming, connectivity, printing, and similar concerns.</li>",
